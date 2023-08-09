@@ -23,6 +23,7 @@ function titleCase(tutorials) {
           .join(" ")
 }
 
-
+// Found cool examples here 
+// https://www.programiz.com/javascript/examples/first-letter-uppercase
 
 
